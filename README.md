@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working as an AI-Data Engineer at Klodev in Coimbatore. You specialize in AI, ML, and Data Science and are actively working on projects involving NLP, automation, and data processing. You have experience with tools like Playwright, Streamlit, and Gemini API, and you're currently developing a chatbot for UK address splitting. Your goal is to enhance your AI and ML skills to advance your career in IT
+I'm working as an AI-Data Engineer at Klodev in Coimbatore. You specialize in AI, ML, Data Data Analyst, and Data Science and are actively working on projects involving NLP, automation, and data processing. You have experience with tools like Playwright, Streamlit, and Gemini API, and you're currently developing a chatbot for UK address splitting. I aim to enhance your AI and ML skills to advance your career in IT.
 
 
 ## 🌐 Socials:
